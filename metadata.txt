@@ -1,0 +1,21 @@
+sqldf("SELECT count(*) FROM data2 WHERE C_product_presence ='0' AND D_product_presence='0' AND E_product_presence='0' AND F_product_presence='0' AND G_product_presence='0' AND Type_A_customer_outreaches ='0' AND Type_B_customer_outreaches ='0' AND Type_C_customer_outreaches ='0'AND Type_D_customer_outreaches ='0' AND Type_E_customer_outreaches= '0' AND Type_F_customer_outreaches='0'AND Channel_1_outreach = '0' AND service_contact_using_channel_2 ='0' AND X3_market_outreach_using_channe ='0' AND X4_market_outreach_using_channel ='0' ")
+
+
+cust_num	month	cust_demographics_ai	cust_demographics_aii	typeA_ct	typeB_ct	
+C_product_presence = '0' AND D_product_presence ='0' AND E_product_presence ='0' AND F_product_presence='0' AND G_product_presence ='0' AND 
+
+
+A_type_account_balance ='0' AND	B_type_account_balance ='0' AND	C_type_account_balance='0' AND D_type_account_balance ='0' AND	E_type_account_balance ='0'
+normal_tot_bal	
+
+
+
+
+
+
+Type_A_customer_outreaches='0' AND Type_B_customer_outreaches='0' AND Type_C_customer_outreaches='0' AND Type_D_customer_outreaches='0' AND Type_E_customer_outreaches='0' AND Type_F_customer_outreaches='0' AND Type_G_customer_outreaches ='0' AND Typ_H_customer_outreaches ='0' 
+
+
+Channel_1_outreach='0' AND service_contact_using_channel_2='0' AND X3_market_outreach_using_channe='0' AND X4_market_outreach_using_channel ='0'
+
+
